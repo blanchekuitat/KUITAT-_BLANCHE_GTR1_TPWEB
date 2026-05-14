@@ -1,0 +1,85 @@
+nav{
+    background-image:url(images/IMG_20260514_110044.jpg) ;
+    background-size: 900px,0%;
+    padding-top: 0%;
+    padding-bottom: 30%;
+    flex-direction: column;
+   max-width: 100%;
+   height: auto;
+   margin-top: 0%;
+   
+}
+main{
+
+    flex-direction: column;
+    margin-top: 100px;
+    border-radius: 5px;
+    color:white;
+}
+h1{
+    font-family: Arial, sans-serif,Impact, 'Arial Narrow Bold';
+    word-spacing:3px ;
+
+}
+
+img{
+    width: 200px;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+    margin-right: 15px;
+    align-items: flex-start;
+   
+
+}
+a:hover {
+  color: red;
+}
+
+.CON{
+    gap: 50px;
+}
+.container{
+    display:flex;
+    gap: 15px;
+   margin-top: 20px;
+   max-width: 100%;
+  
+}
+.section{
+    background-color: rgb(40, 40, 60);
+    flex-direction: column;
+    display: flex;
+}
+footer{
+    color: azure;
+    margin-top: 20px;
+    background-color: rgb(1, 1, 21);
+}
+.foot{
+    display: flex;
+    gap: 25px;
+    margin-top: 20px;
+    
+}
+,source{
+    flex-direction: column;
+    background-color: gray;
+}
+ul{
+    display:flex;
+    gap: 15px;
+   margin-top: 8px;
+}
+.abonner{
+    background-color: rgb(12, 12, 70);
+    color: beige;
+}
+header{
+    background-color: gray;
+}
+body{
+    font-family: sans-serif,Arial;
+}
